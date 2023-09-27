@@ -1,5 +1,5 @@
 
-#holder{
+.holder{
 	display:grid;
 	flex-wrap:wrap-row;
 	justify-content:space-between;
